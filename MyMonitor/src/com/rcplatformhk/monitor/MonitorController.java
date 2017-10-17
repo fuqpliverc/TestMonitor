@@ -4,7 +4,7 @@ package com.rcplatformhk.monitor;
 @RequestMapping("monitor")
 public class MonitorController {
 
-
+    public static String flag = "monitor";
 
 
 
